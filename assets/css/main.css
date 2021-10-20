@@ -1625,16 +1625,22 @@ input, select, textarea {
 	.image {
 		display: inline-block;
 		position: relative;
+		
 	}
 
 		.image img {
 			display: block;
 			width: 100%;
+			
+			
 		}
 
 		.image.fit {
 			display: block;
 			width: 100%;
+			
+
+			
 		}
 
 		.image.featured {
