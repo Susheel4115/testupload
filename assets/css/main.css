@@ -2543,23 +2543,4 @@ body > article {
   #contact footer {
     margin: 0;
   }
-
-  /* Copyright */
-
-  #copyright {
-    font-size: 1em;
-    margin: 0;
-  }
-
-  #copyright li {
-    display: block;
-    margin: 1em 0 0 0;
-    padding: 0;
-    box-shadow: none;
-    border-left: 0;
-  }
-
-  #copyright li:first-child {
-    margin-top: 0;
-  }
 }
